@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myfile>
+	<employee id="666">
+		<name>姓名</name>
+		<age>年龄</age>
+		<sex>性别</sex>
+		<address>住址</address>
+	</employee>
+</myfile>
