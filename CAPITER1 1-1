@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<myfile>
+	<book>
+		<title>XML指南</title>
+		<chapter>第一章 XML入门简介
+			<section>1.1节</section>
+			<sectionname>什么是HTML</sectionname>
+			<section>1.2节</section>
+			<sectionname>什么是XML</sectionname>
+		</chapter>
+		<chapter>第二章 XML语法
+			<section>2.1节</section>
+			<sectionname>XML元素必须有结束标签</sectionname>
+			<section>2.2节</section>
+			<sectionname>XML元素必须正确地嵌套</sectionname>
+		</chapter>
+	</book>
+</myfile>
